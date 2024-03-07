@@ -1,9 +1,10 @@
-import './App.css';
+import "./App.css";
+import GetData from "./GetData";
 
 function App() {
   return (
     <div className="App">
-      // Add code here....
+      <GetData />
     </div>
   );
 }
