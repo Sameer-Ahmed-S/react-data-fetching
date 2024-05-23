@@ -14,6 +14,7 @@ function GetData() {
   // Here is the basic data boilerplate
   return (
     <>
+      {/* do not edit the code below this line */}
       <h2>Name: {data.name}</h2>
       <h2>Email: {data.email}</h2>
       <h2>Username: {data.username}</h2>
