@@ -22,7 +22,7 @@ function GetData() {
     catch(err){
        setError('Error fetching data');
     }
-    finallay
+    finally
     {
       setLoading(false);
     }
